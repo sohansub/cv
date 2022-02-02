@@ -1,0 +1,35 @@
+body {
+    background-color: #EAF6F6 
+ }
+h1 {
+color:rgb(12, 143, 110)
+ }
+
+ h3{
+color:rgb(12, 143, 110)
+ }
+ table{
+ color:#000000
+ }
+ td{
+    color:#000000
+    }
+ li{
+        color:#000000
+        }p{
+            color:#000102
+            }tr{
+                color:#070707
+                }
+ 
+hr {
+    border-style:dotted;
+    border-bottom: none;
+    border-color: lightblue;
+    border-width: 10px;
+    width: 5%;
+}
+/*********CLASS SELECTORS**********/
+.circular{
+    border-radius: 100%;
+}
